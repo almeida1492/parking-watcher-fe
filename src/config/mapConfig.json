@@ -1,0 +1,34 @@
+{
+  "center": [10.983333, 45.433334],
+  "geojsonObject": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "kind": "county",
+          "name": "Wyandotte",
+          "state": "KS"
+        },
+        "geometry": {
+          "type": "MultiPolygon",
+          "coordinates": [
+            [
+              [
+                [10.994065471971004, 45.44701191932224],
+                [10.999043651838264, 45.448577516557926],
+                [11.001532741771896, 45.442736413213034],
+                [11.001618572459263, 45.43918328133818]
+              ]
+            ]
+          ]
+        }
+      }
+    ]
+  },
+  "veronaPos": [10.983333, 45.433334],
+  "markerImage24": "https://cdn2.iconfinder.com/data/icons/social-media-and-payment/64/-47-24.png",
+  "markerImage32": "https://cdn2.iconfinder.com/data/icons/social-media-and-payment/64/-47-32.png",
+  "markerImage64": "https://cdn2.iconfinder.com/data/icons/social-media-and-payment/64/-47-64.png",
+  "currentPosIcon": "https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-ios7-circle-filled-32.png"
+}
